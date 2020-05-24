@@ -1,0 +1,253 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    /* color: #606060; */
+}
+/* body>#app{
+    overflow-x: hidden;
+} */
+nav .nav-link{
+    color: #606060;
+    font-weight: 500;
+}
+
+nav .nav-link.active{
+    color: #004994;
+}
+.gota-content{
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 110px 90px;
+}
+.gota{
+    position: absolute;
+    top: 80px;
+    right: 3%;
+    width: 460px;
+    z-index: 100;
+    display: none;
+}
+@media screen and (min-width: 992px){
+    .gota{
+        display: block;
+        top: 100px;
+        width: 420px;
+    }     
+    
+}
+@media screen and (min-width: 1200px){
+    .gota{
+        top: 50px;
+        width: 460px;
+    }
+    .gota-content{
+        padding: 100px 90px;
+    }
+}
+
+
+.gota img{
+    width: 100%;
+}
+.gota label,.bg-gota label{
+    margin-top: 10px;
+    display: flex;
+}
+.form-gota{
+    font-size: 1rem;
+    width: 100%;
+    border: 0;
+    background-color: transparent;
+    color: #fff;
+    padding: 5px;
+    border-bottom: 1px dashed #fff;
+}
+textarea.form-gota{
+    border: 1px dashed #fff;
+}
+
+.btn-margin{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+}
+.banner img{
+    width: 100%;
+}
+html,body,#app{
+    overflow-x: hidden;
+}
+
+.banner-text{
+    color: #fff;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+.banner-titulo{
+    font-size: 50px;
+    line-height: 1;
+}
+.banner-capital{
+    line-height: 0.8;
+    font-size: 120px;
+}
+
+@media screen and (max-width: 992px){
+    nav{
+        padding: 1rem 0px;
+    }
+}
+@media screen and (max-width: 768px){
+    .banner-titulo{
+        font-size: 2.15rem;
+        line-height: 1;
+    }
+    .banner-capital{
+        line-height: 0.8;
+        font-size: 5rem;
+    }
+}
+
+.banner{
+    background-repeat: no-repeat;
+    background-origin: cover cover;
+    background-size:  auto 110%;
+    position: relative;
+    min-height: 300px;
+    height: calc(100vh - 70px);
+    display: flex;
+    align-items: center;
+
+}
+@media screen and (min-width: 1200px){
+    .banner{
+        min-height: 500px;
+        height: calc(100% - 110px);
+    }
+}
+
+
+@media screen and (min-width: 992px){
+    .banner{
+        min-height: 550px;
+    }
+}
+.btn-toggler{
+    border-color: #044C82;
+    color: #044C82;
+}
+/**
+*   Gris
+*/
+.bg-gris,.bg-blue,.bg-blanco,.bg-gota{
+    padding: 3rem 0;
+}
+.bg-gris{
+    background-color: #EAE9F2;
+}
+.bg-blanco{
+    background-color: #fff;
+    color: #606060;
+}
+
+.text-blue{
+    color: #044C82;
+}
+.text-blue2{
+    color: #007BAF;
+}
+.text-amarillo{
+    color: #FFFF00
+}
+.bg-gota{
+    background-color: #3872B7;
+    color: #fff;
+}
+@media screen and (min-width: 992px){
+    .bg-gota{
+        display: none;
+    }
+}
+.bg-blue{
+    background-color: #004994;
+    color: #fff;
+}
+
+
+.youtube{
+    width: 100%;
+}
+
+.container-interno{
+    display: grid;
+    grid-gap: 1rem 5rem;
+    grid-template-columns: repeat(1,1fr);
+    grid-template-rows: repeat(4,auto);
+}
+.ci-1{
+    grid-column: 1;
+    grid-row: 1;
+}
+.ci-2{
+    grid-column: 1;
+    grid-row: 2;
+}
+.ci-3{
+    grid-column: 1;
+    grid-row: 4;
+}
+.ci-4{
+    grid-column: 1;
+    grid-row: 3;
+}
+@media screen and (max-width: 992px){
+    .ci-1 img,.ci-4 img{
+        width: 200px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .container-interno{
+        padding: 0 4.5rem;
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: repeat(2,1fr);
+    }
+    .ci-1{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+        padding: 0;
+    }
+    .ci-2{
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+        display: flex;
+        align-items: center;
+    }
+    .ci-3{
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 3;
+        display: flex;
+        align-items: center;
+    }
+    .ci-4{
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 2;
+        grid-row-end: 3;
+        padding: 0;
+    }
+}
+
