@@ -13,6 +13,52 @@
                 </div>
             </div>
         </div>
+        <div class="bg-blanco servicio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-4 col-md-4">
+                                <img class="img-responsive" src="img/servicio/PERFORACION-DE-POZO-TUBULAR-DE-AGUA-CON-SISTEMA-ROTATORIO.png" alt="">
+                            </div>
+                            <div class="col-8 col-md-8 vertical-center">
+                                <h4 class="text-blue">PERFORACIÓN DE POZO TUBULAR DE AGUA CON SISTEMA ROTATORIO</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-8 col-md-8 vertical-center">
+                                <h4 class="text-blue">SONDAJES ELECTRICOS VERTICALES (SEV)</h4>
+                            </div>
+                            <div class="col-4 col-md-4">
+                                <img class="img-responsive" src="img/servicio/SONDAJES-ELECTRICOS-VERTICALES.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-4 col-md-4">
+                                <img class="img-responsive" src="img/servicio/DIAGRAFIAS-ELECTRICAS.png" alt="">
+                            </div>
+                            <div class="col-8 col-md-8 vertical-center">
+                                <h4 class="text-blue">DIAGRAFÍAS ELÉCTRICAS</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col-8 col-md-8 vertical-center">
+                                <h4 class="text-blue">REGISTRO LITOLÓGICO</h4>
+                            </div>
+                            <div class="col-4 col-md-4">
+                                <img class="img-responsive" src="img/servicio/REGISTRO-LITOLOGICO.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 <script>

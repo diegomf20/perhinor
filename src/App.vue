@@ -113,7 +113,7 @@
           </div>
         </div>     
       </div>
-      <div class="bg-blue">
+      <div class="bg-blue footer">
         <div class="container">
           <img src="logo-blanco.png" class="mb-3" alt="" height="45px">
           <div class="row">

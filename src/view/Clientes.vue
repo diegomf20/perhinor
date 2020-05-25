@@ -13,6 +13,9 @@
                 </div>
             </div>
         </div>
+        <div class="bg-blanco">
+            
+        </div>
     </div>
 </template>
 <script>
