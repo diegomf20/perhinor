@@ -253,12 +253,18 @@ html,body,#app{
     grid-gap: 2.5rem;
     align-content: center;
 }
+.servicio .sub-titulo{
+    color: #007BAF;
+    text-align: left;
+    font-weight: 500;
+    cursor: pointer;
+}
 .servicio h4{
     font-size: 1.125rem;
 }
 @media screen and (min-width: 992px){
     .servicio .container>.row{
-        grid-gap: 2rem 4rem;
+        grid-gap: 2rem 2.5rem;
     }
     .servicio .container>.row .row{
         grid-gap: 2rem;

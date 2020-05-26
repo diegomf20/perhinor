@@ -59,6 +59,12 @@ i,span,b{ font-size: inherit }
 .mb-5{
     margin-bottom: 2.5rem;
 }
+.mt-1{
+    margin-top: 0.5rem;
+}
+.mt-2{
+    margin-top: 1rem;
+}
 .mt-3{
     margin-top: 1.5rem;
 }
