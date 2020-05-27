@@ -12,7 +12,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-blanco">
+        <div class="bg-blanco nosotros">
             <div class="container">
                 <div class="container-interno">
                     <div class="ci-1 text-center">

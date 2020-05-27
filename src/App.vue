@@ -59,7 +59,7 @@
                 <router-link class="nav-link" to="nosotros" v-on:click.native="abrir()">Nosotros</router-link>
                 <router-link class="nav-link" to="servicio" v-on:click.native="abrir()">Servicio</router-link>
                 <router-link class="nav-link" to="procesos" v-on:click.native="abrir()">Procesos</router-link>
-                <router-link class="nav-link" to="clientes" v-on:click.native="abrir()">clientes</router-link>
+                <router-link class="nav-link" to="clientes" v-on:click.native="abrir()">Clientes</router-link>
               </div>
             </div>
         </div>
@@ -136,9 +136,6 @@
                   <p>Oficina: 074 - 634 357</p>
                   <p>Móvil: 969 963 778 - 953 124 022 - 978 438 882</p> 
                 </div>
-                <div class="col-sm-6 col-lg-5  mb-3">
-                  <p class="text-blue2"><b>Siguenos</b></p>
-                </div>
               </div>
             </div>
             <div class="col-lg-1">
@@ -158,6 +155,11 @@
             </div>
           </div>
         </div>
+      </div>
+      <div class="social">
+        <a target="_blank" rel="noopener noreferrer" class="bg-facebook" href="https://www.facebook.com/PERHINOR"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a target="_blank" rel="noopener noreferrer" class="bg-instagram" href="https://www.instagram.com/perhinor01/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        <a target="_blank" rel="noopener noreferrer" class="bg-youtube" href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
       </div>
     </div>
 </template>
