@@ -22,7 +22,7 @@
                                 <img class="img-responsive" src="img/servicio/PERFORACION-DE-POZO-TUBULAR-DE-AGUA-CON-SISTEMA-ROTATORIO.png" alt="">
                             </div>
                             <div class="col-8 col-md-8 vertical-center">
-                                <p class="sub-titulo">PERFORACIÓN DE POZO TUBULAR DE AGUA CON SISTEMA ROTATORIO <i class="fa fa-caret-down" aria-hidden="true"></i></p>
+                                <p class="sub-titulo">PERFORACIÓN y CONSTRUCCIÓN DE POZO TUBULAR DE AGUA CON SISTEMA ROTATORIO<i class="fa fa-caret-down" aria-hidden="true"></i></p>
                             </div>
                         </div>
                         <p class="mt-1 animate__animated animate__fadeIn" v-if="item_detalle==1">Método rotario, en la cual consiste llevar a cabo una acción de arrancar partículas por medio de un instrumento cortante (broca y barrenos) sometido a una fuerza giratoria, desde la superficie proporcionada por la máquina perforadora. Una vez que se va realizando el corte, se utiliza agua y bentonita creando una masa evitando el desprendimiento de las paredes del pozo. La preparación de la masa (bentonita y agua), se realiza con la recirculación del fluido a través de las pozas y el abastecimiento de agua mediante la poza donde se almacenó. A través de este sistema también permite la eliminación de los estratos y/o sedimentos que afloran la superficie de las pozas de lodo.</p>
@@ -41,7 +41,7 @@
                     <div class="col-md-6">
                         <div @click="detalles(3)" class="row">
                             <div class="col-4 col-md-4">
-                                <img class="img-responsive" src="img/servicio/DIAGRAFIAS-ELECTRICAS.png" alt="">
+                                <img class="img-responsive" src="img/servicio/DIAGRAFIA.png" alt="">
                             </div>
                             <div class="col-8 col-md-8 vertical-center">
                                 <p class="sub-titulo">DIAGRAFÍAS ELÉCTRICAS <i class="fa fa-caret-down" aria-hidden="true"></i></p>

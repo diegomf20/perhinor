@@ -1,5 +1,6 @@
 *{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
 }
 nav .nav-link{ color: #606060; font-weight: 500 }
 nav .nav-link.active{ color: #004994 }
@@ -279,7 +280,7 @@ html,body,#app{
     }
 }
 .footer p{
-    font-size: 14px;
+    font-weight: 300;
 }
 
 .vertical-center{
@@ -414,4 +415,41 @@ box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.75);
     font-weight: 800;
     background-color: #EAE9F1;
     color: #004994;
+}
+
+
+/**
+*   Proyecto
+*/
+.tarjeta-proyecto{
+    position: relative;
+    display: flex;
+}
+.tarjeta-proyecto p{
+    font-size: 16px;
+}
+.tarjeta-proyecto .contenido{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    text-align: center;
+    background-color: rgba(0,0,0,0.55);
+    transition: 0.3s;
+}
+.tarjeta-proyecto .contenido:hover{
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.tarjeta-proyecto .contenido-titulo{
+    color: #fff;
+    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 16px;
 }

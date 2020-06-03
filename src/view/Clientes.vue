@@ -78,7 +78,7 @@
                     <div class="col-lg-6 text-center">
                         <h4 class="text-blue">Contamos con Resolución Directoral</h4>
                         <h4 class="text-blue mb-3">N° 091 - 2019-ANA-DAR</h4>
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.ana.gob.pe/sites/default/files/normatividad/files/R.D.091%20PERFORACONES%20HIDRAULICAS%20DEL%20NORTE%20SAC.pdf" class="btn btn-danger"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Ver Resolución</a>
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.ana.gob.pe/contenido/perforaciones-hidraulicas-del-norte-sac-ruc-20601930570" class="btn btn-danger">Ver Resolución</a>
                     </div>
                 </div>
             </div>

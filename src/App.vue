@@ -119,7 +119,7 @@
           <div class="row">
             <div class="col-lg-1">
             </div>
-            <div class="col-lg-10">
+            <div class="col-lg-11">
               <div class="row">
                 <div class="col-sm-6 col-lg-5 mb-3">
                   <p class="text-blue2"><b>Dirección</b></p>
@@ -138,8 +138,8 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-1">
-            </div>
+            <!-- <div class="col-lg-1">
+            </div> -->
             <div class="col-lg-1">
             </div>
             <div class="col-lg-10">

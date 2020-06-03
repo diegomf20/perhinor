@@ -7,6 +7,7 @@
                         <div class="col-sm-7 col-md-7 col-lg-5">
                             <h1 class="banner-titulo text-center">Proceso de</h1>
                             <h1 class="banner-titulo text-center">perforación</h1>
+                            <p class=" text-center">"Soluciones integrales a la medida del cliente"</p>
                         </div>
                     </div>
                 </div>

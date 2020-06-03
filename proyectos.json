@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre_proyecto": "Perforacion de canales",
+        "ubicacion": "Jaen",
+        "url_album": "https://www.facebook.com/PERHINOR/media_set/?set=a.2228053977510888",
+        "url_imagen": "proyectos/perforacion.jpg"
+    },
+    {
+        "id": 1,
+        "nombre_proyecto": "Perforacion de canales",
+        "ubicacion": "Chiclayo",
+        "url_album": "https://www.facebook.com/PERHINOR/media_set/?set=a.2228053977510888",
+        "url_imagen": "proyectos/perforacion.jpg"
+    }
+]
